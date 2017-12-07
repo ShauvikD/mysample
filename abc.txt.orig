@@ -1,0 +1,10 @@
+this is a text
+changed in login batch
+<<<<<<< HEAD
+this is a commit from master and merged change from hotfix
+
+
+=======
+this is a commit from master
+new line from master
+>>>>>>> master
