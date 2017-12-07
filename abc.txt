@@ -1,3 +1,4 @@
 this is a text
 changed in login batch
 this is a commit from master
+new line from master
