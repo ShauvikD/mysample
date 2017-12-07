@@ -1,7 +1,5 @@
 this is a text
 changed in login batch
-<<<<<<< HEAD
-this is a commit from master
-=======
-this is a commit from master
->>>>>>> master
+this is a commit from master and merged change from hotfix
+
+
